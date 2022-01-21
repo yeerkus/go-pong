@@ -1,5 +1,5 @@
 # go-pong
-a simple pong game using Go
+a simple pong game using Go with Raylib
 
 ### why monolithic?
 
